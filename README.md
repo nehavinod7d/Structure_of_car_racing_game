@@ -1,1 +1,2 @@
-# Structure_of_car_racing_game
+# C36RV_SpeedRacer_StudentActivity
+Student Activity
